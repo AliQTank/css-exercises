@@ -25,3 +25,43 @@ button {
   background: white;
   border: 1px solid #eee;
 }
+
+
+/*
+exercises 
+
+*/
+
+/*
+There is 8px between the edge of the card and its 
+content (the blue sections).
+*/
+
+.card {
+  padding: 8px;
+}
+
+.title {
+  font-size: 16px;
+  margin-top: 0;
+  margin-bottom: 8px;
+  padding: 8px;
+}
+
+.content {
+  padding: 16px 8px;
+  margin-bottom: 8px;
+}
+
+.button-container {
+  padding: 8px;
+  text-align: center;
+  
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  padding: 8px 24px;
+    
+}
