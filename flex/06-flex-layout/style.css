@@ -29,3 +29,21 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
+
+/**/
+.content {
+  text-align: center;
+}
+
+/**/
+.footer {
+  background-color: #eeeeee;
+
+}
+
+.header, .footer {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
