@@ -20,6 +20,9 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  /**/
+  padding: 12px;
+  
 }
 
 input {
@@ -53,6 +56,8 @@ input {
 .footer>ul, .header>ul  {
   display: flex;
   gap: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
   list-style: none;
 }
 
